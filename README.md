@@ -76,7 +76,7 @@ make run
 - **Triple Lines**: 500 × level (nice!)
 - **Tetris (4 lines)**: 800 × level (YESSS!)
 
-## 🏗️ Code Structure (For the Curious)
+## 🏗️ Code Structure 
 
 ```
 go-tetris/
