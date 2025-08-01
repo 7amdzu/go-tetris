@@ -1,0 +1,21 @@
+# Binaries
+bin/
+gotetris
+*.exe
+
+# Go build cache
+.cache/
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# log files
+*.log
+
+# Temporary files
+*.tmp
+*.temp
