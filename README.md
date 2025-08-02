@@ -2,7 +2,7 @@
 
 So I got bored one day and decided to learn Go by building Tetris in the terminal. Turns out it's actually pretty fun! 🎮
 
-If you're wondering why anyone would make *another* Tetris clone... well, because it's the terminal version, and i thought it will be cool..now idk.
+If you're wondering why anyone would make *another* Tetris clone... well, because i thought it will be cool..now idk.
 
 ![Tetris Screenshot](./screenshots/screenshot.png)
 
